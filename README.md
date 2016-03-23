@@ -15,6 +15,11 @@ Deliverables
 *Register New User
 *limit access based on User privileges
 
+Run The following  script guesterror.php from the terminal enter the following parameters  for creating a user 
+Ex : php createuser.php "username" "password" "privilege" "displayname" 
+
+the script will echo out error due to the fact guest accounts cannot create other accounts on sql
+
 To Register a new user run the following script createuser.php from terminal enter the following parameters after the file name 
 Ex : php createuser.php "username" "password" "privilege" "displayname" 
 
