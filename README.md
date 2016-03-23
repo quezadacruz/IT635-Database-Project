@@ -1,6 +1,7 @@
 # IT635-Database-Project
 midterm project for it635 
-
+Student : Jose Quezada
+email : jq38@njit.edu
 PLease read this file 
 
 I have included a script for every deliverable you have asked please follow instruction on how to run each script and what it does
